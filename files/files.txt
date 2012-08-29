@@ -1,4 +1,5 @@
-total 8
+this is not what I originally had in the file - who changed it? 
+s is itotal 8
 drwx------+  14 tlberglund  staff   476 Aug 29 12:02 Desktop
 drwx------+  47 tlberglund  staff  1598 Aug 27 15:22 Documents
 drwx------@  36 tlberglund  staff  1224 Aug 28 14:34 Dropbox
